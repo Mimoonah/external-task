@@ -1,0 +1,37 @@
+.h2{
+    color: brown;
+}
+.bdrsection{
+    border-style: ridge ;
+    border-right-color: chocolate;
+    border-bottom-color:brown; 
+    border-left-color:red; 
+    border-top-color:crimson; 
+    border-width: 5px;
+    
+}
+.borderinset{
+    border-width: 2px;
+    border-style: inset;
+    border-color: blue;
+}
+.bdrdashed{
+    border-width: 6px;
+    border-style: dashed;
+    border-color: mediumaquamarine;
+}
+.bdroutset{
+    border-width: 3px;
+    border-style: outset;
+    border-color:indianred;
+}
+.bdrsolid{
+    border-width: 5px;
+    border-style: solid;
+    border-color:violet;
+}
+.bdrdashed{
+    border-width: 4px;
+    border-style: dashed;
+    border-color:rgb(80, 85, 100);
+}
